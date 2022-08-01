@@ -7,5 +7,5 @@ Then the digits in the sudoku will be added to the array by cnn model
 Then by backtracking algorithm the sudoku will be solved and result will be displayed and stored in Results folder
 
 # Here is a sample output
-!(https://github.com/Kashyap2502/Sudoku_Solver_By_CNN/blob/main/Input_images/Sudoku.jpg?raw=true)
+![alt text](https://github.com/Kashyap2502/Sudoku_Solver_By_CNN/blob/main/Input_images/Sudoku.jpg?raw=true)
 ![alt text](https://github.com/Kashyap2502/Sudoku_Solver_By_CNN/blob/main/Results/Solved_Sudoku.jpg?raw=true)
